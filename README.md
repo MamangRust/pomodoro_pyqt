@@ -1,7 +1,19 @@
 ### Pomodoro Task QT
 
-![example-test](./images/image.png)
 
 
-## Feature yang ditambahkan
--   Visualiasi dashboard Tasks.csv untuk mengetahui selama sebulan ngapain aja dan apa yang perlu diimprove dari sisi debug, kecepatan dalam berfikir dan lain lain
+Pomodoro Task QT adalah aplikasi Pomodoro Timer dengan fitur Tasks List.
+
+
+
+## Feature List
+-   Tasks List dan Pomodoro Timer
+-   Visualiasi Perbulan
+-   Visualiasi Perminggu
+
+
+## Image
+
+![Pomodoro](./images/image.png)
+![Perminggu](./images/Visualisasi_Tasks_2024_December.png)
+![Perbulan](./images/Visualisasi_Tasks_2024.png)
